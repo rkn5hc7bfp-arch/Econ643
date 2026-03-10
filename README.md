@@ -1,1 +1,1 @@
-# Econ643 Business Statistics
+# Econ643 Empirical Analysis I
